@@ -19,7 +19,7 @@ body {
  if (isset($_GET['date'])){
     $x = $_GET['date'];
     if($x == "14-Aug-1947"){
-        echo "<script>alert('Flag{A_Quaid_e_Azam_Tera_Ehsan_hai}')</script>";
+        echo "<script>alert('Part-4 _Y0u_aRe_')</script>";
     }
  }
 ?>

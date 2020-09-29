@@ -55,7 +55,7 @@ if(!isset($_COOKIE[$cookie_name])) {
   echo "Cookie named '" . $cookie_name . "' is not set!";
 } else {
   if($_COOKIE[$cookie_name] == "21232f297a57a5a743894a0e4a801fc3"){
-    echo "<br><h1>Okay You Got Me Here is your Flag </h1><!--RmxhZ3tIQXJkX1cwcktfMXNfS2VZX3QwX1N1Q2NlU3N9 -->";
+    echo "<br><h1>Okay You Got Me Here is your Flag </h1><!--UGFydC0zIGxpdHRsZV9HZWVreUFzcw== -->";
 }
 }
 

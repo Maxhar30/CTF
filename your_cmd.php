@@ -70,7 +70,7 @@ form.cmd::after {
 }if($x == "whoami"){
   echo "root";
 }if($x == "cat flag_5"){
-  echo "Flag{Y0u_are_Amaz1ng}";
+  echo "Part-5 1337}";
 }
   }
   
